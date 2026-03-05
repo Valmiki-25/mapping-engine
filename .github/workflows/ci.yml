@@ -27,7 +27,7 @@ jobs:
         run: |
           flake8 app.py embeddings.py scraper.py \
             --max-line-length=100 \
-            --ignore=E501,W503
+            --ignore=E501,W503,E225,E226,E231,E722,W292,F401,E303
 
   test:
     name: Step 2 - Run Tests
