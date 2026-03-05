@@ -60,7 +60,7 @@ def retrieve_courses(skill):
 
     rerank_scores=reranker.predict(pairs)
 
-    #candidates["score"]=rerank_scores
+    candidates["score"]=rerank_scores
 
     candidates=candidates.sort_values(by="score",ascending=False)
 
