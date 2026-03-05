@@ -1,0 +1,114 @@
+[
+    {
+        "skill": "Azure Data Engineer",
+        "course_name": "Mastering Azure Databricks for Data Engineers",
+        "link": "https://www.coursera.org/specializations/packt-mastering-azure-databricks-for-data-engineers",
+        "skills": "Automation, CI/CD, Data Architecture, Data Governance, Data Integration, Data Management, Data Pipelines, Data Processing, Data Quality, Data Storage, Development Testing, File Systems, Integration Testing, Real Time Data",
+        "explanation": "Highest relevance score and rating"
+    },
+    {
+        "skill": "Oracle Hyperion Enterprise",
+        "course_name": "Financial Mastery with Oracle Hyperion",
+        "link": "https://www.coursera.org/learn/financial-mastery-with-oracle-hyperion",
+        "skills": "Consolidation, Budgeting, Financial Management, Financial Forecasting, Financial Reporting, Accounting and Finance Software, Key Performance Indicators (KPIs), Month End Closing, Performance Measurement, Business Reporting, Management Reporting, Financial Data, Financial Analysis, Forecasting, Financial Planning, Operational Analysis",
+        "explanation": "Directly teaches Oracle Hyperion Enterprise skill"
+    },
+    {
+        "skill": "General Accepted Accounting Principles (GAAP)",
+        "course_name": "Master US GAAP: Analyze Foundations & Codification",
+        "link": "https://www.coursera.org/learn/master-us-gaap-analyze-foundations-codification",
+        "skills": "Generally Accepted Accounting Principles (GAAP), Financial Statements, Technical Accounting, Financial Reporting, Financial Accounting, Standard Accounting Practices",
+        "explanation": "Highest relevance_score and rating"
+    },
+    {
+        "skill": "coffee making",
+        "course_name": "None",
+        "link": null,
+        "skills": null,
+        "explanation": "No related courses found"
+    },
+    {
+        "skill": "front end developer",
+        "course_name": "Meta Front-End Developer",
+        "link": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+        "skills": "Debugging, Design Research, Event-Driven Programming, Javascript, Linux Commands, Pseudocode, Software Versioning, Software Visualization, Unit Testing, Usability, User Experience, User Experience Design, User Interface and User Experience (UI/UX) Design, User Interface (UI), User Research, Web Content Accessibility Guidelines",
+        "explanation": "Highest relevance score and rating"
+    },
+    {
+        "skill": "Application Performance Management (APM)",
+        "course_name": "Monitoring and Observability for Development and DevOps",
+        "link": "https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops",
+        "skills": "DevOps, Containerization, System Monitoring, Application Performance Management, Debugging, Continuous Monitoring, Microservices, Data Management, Distributed Computing, Cloud-Native Computing",
+        "explanation": "Highest rating and relevance score for Application Performance Management skill"
+    },
+    {
+        "skill": "Information Technology (IT) Risk Management",
+        "course_name": "Information Security Risk Management for ISO 27001/ISO 27002",
+        "link": "https://www.coursera.org/learn/packt-information-security-risk-management-for-iso-27001iso-27002",
+        "skills": "Continuous Monitoring, Cyber Risk, Asset Protection, Security Controls, Risk Management, Information Systems, Threat Management, Vulnerability Assessments, Cyber Security Policies, Scenario Testing, Data Security, Cybersecurity, ISO/IEC 27001, Governance Risk Management and Compliance, Security Management",
+        "explanation": "Highest relevance score and direct teaching of the skill"
+    },
+    {
+        "skill": "SAP Management",
+        "course_name": "SAP Professional Fundamentals",
+        "link": "https://www.coursera.org/learn/sap-professional-fundamentals",
+        "skills": "Waterfall Methodology, Relationship Management, Rapport Building, Business Transformation, Project Implementation, Systems Thinking, Design Thinking, Technical Consulting, Business Research, Relationship Building, Consultative Approaches, Solution Delivery, Digital Transformation, Business Consulting, Product Strategy, Consulting, Company, Product, and Service Knowledge, Project Management, Agile Methodology",
+        "explanation": "Highest relevance score and rating"
+    },
+    {
+        "skill": "SaaS",
+        "course_name": "Cloud Computing Primer: Software as a Service (SaaS)",
+        "link": "https://www.coursera.org/learn/codio-cloud-computing-primer-semi-tech-business-software-as-a-service-saas",
+        "skills": "Software Development Tools, Growth Strategies, Cloud Computing, Cloud Deployment, Cloud Solutions, Product Demonstration, Software As A Service, Cloud Services, Service Level Agreement",
+        "explanation": "Highest relevance score and directly teaches SaaS"
+    },
+    {
+        "skill": "HR leadership",
+        "course_name": "Leading: Human Resource Management and Leadership",
+        "link": "https://www.coursera.org/specializations/hr-management-leadership",
+        "skills": "Brand Management, Branding, Business Leadership, Diversity and Inclusion, Employee Engagement, Human Resource Strategy, Intercultural Competence, Leadership, Leadership Development, Leadership and Management, Organizational Effectiveness, Organizational Leadership, Organizational Strategy, Organizational Structure, People Development, People Management, Strategic Thinking, Team Building, Team Leadership, Team Management",
+        "explanation": "Highest relevance score and rating"
+    },
+    {
+        "skill": "payroll analysis",
+        "course_name": "ADP Entry-Level Payroll Specialist",
+        "link": "https://www.coursera.org/professional-certificates/adp-payroll-specialist",
+        "skills": "Benefits Administration, Compensation Management, Customer Service, Data Analysis, Data Entry, Income Tax, Labor Compliance, Labor Law, Non-Profit Accounting, Payroll, Payroll Administration, Payroll Processing, Payroll Reporting, Payroll Tax, Specialized Accounting, Tax Compliance, Tax Management, Workforce Management",
+        "explanation": "Highest relevance score and rating for payroll analysis skill"
+    },
+    {
+        "skill": "Variance Analysis",
+        "course_name": "Analyze and Highlight Cost Variances Effectively",
+        "link": "https://www.coursera.org/learn/analyze-and-highlight-cost-variances-effectively",
+        "skills": "Statistical Analysis, Data-Driven Decision-Making, Cost Accounting, Strategic Communication, Budget Management, Communication, Variance Analysis, Stakeholder Communications, Cost Management, Cost Control, Data Analysis",
+        "explanation": "Directly teaches Variance Analysis with high relevance score"
+    },
+    {
+        "skill": "IBM Rational Application Developer (RAD)",
+        "course_name": "IBM Rational Application Developer is not found in the courses, but IBM Full Stack Software Developer is the closest match.",
+        "link": null,
+        "skills": null,
+        "explanation": "No direct course found for IBM Rational Application Developer, but IBM Full Stack Software Developer is the closest match."
+    },
+    {
+        "skill": "Node js",
+        "course_name": "Node.js & MongoDB: Developing Back-end Database Applications",
+        "link": "https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb",
+        "skills": "Authentications, Databases, Javascript, API Design, Database Design, Application Deployment, Performance Tuning, Scalability, Server Side, Debugging, Web Development, Back-End Web Development",
+        "explanation": "Best match for Node js skill"
+    },
+    {
+        "skill": "making biryani",
+        "course_name": "None",
+        "link": null,
+        "skills": null,
+        "explanation": "No related courses found"
+    },
+    {
+        "skill": "cooking biryani",
+        "course_name": "None",
+        "link": null,
+        "skills": null,
+        "explanation": "No related courses found"
+    }
+]
